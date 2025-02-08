@@ -7,3 +7,5 @@ Lu, Yunmei. “Examining the Stability and Change in Age-Crime Relation in South
 Their GitHub account containing the code is found here: https://github.com/irisyunmeilu/SK_APC
 
 All other code for the descriptive statistics, cleaning, and manipulation is my own, in addition the graphics, tables, and Excel spreadsheets.
+
+People are free do as they please with the items in accordance with the License attached.
