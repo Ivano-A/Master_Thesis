@@ -38,4 +38,6 @@ The analyses contained in this text were carried out at the Centre interuniversi
 **Contact:**
 
 Ivano Argondizzo
-i.argondizzo@hotmail.com 
+ivano.argondizzo@mail.concordia.ca
+
+My thesis is available upon request.
