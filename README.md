@@ -24,11 +24,14 @@ The suicide count data were acquired from official Statistics Canada data throug
 Expert Working Group on the Revision and Updating of the Original Task Force Report on Suicide in Canada, and Canada, eds. Suicide in Canada: Update of the Report of the Task Force on Suicide in Canada. Ottawa: Health Canada, 1994.
 
 Population data:
+
 Yearly population estimates, 1950-1970:
 Statistics Canada. Table 17-10-0029-01  Estimates of population, by age group and sex, Canada, provinces and territories (x 1,000). https://doi.org/10.25318/1710002901-eng
+
 Yearly population estimates, 1971-2019:
 Statistics Canada. Table 17-10-0005-01  Population estimates on July 1, by age and gender. https://doi.org/10.25318/1710000501-eng
 
 Acknowledgement for QICSS access:
+
 The analyses contained in this text were carried out at the Centre interuniversitaire québécois de statistiques sociales (QICSS), a member of the Canadian Research Data Centre Network (CRDCN). The activities of the QICSS are made possible by the financial support of the Social Sciences and Humanities Research Council (SSHRC), the Canadian Institutes of Health Research (CIHR), the Canada Foundation for Innovation (CFI), Statistics Canada, the Fonds de recherche du Québec and all the Quebec universities that contribute to their funding. The ideas expressed in this text are those of the authors and not necessarily those of the CRDCN, the QICSS or their partners.
 
