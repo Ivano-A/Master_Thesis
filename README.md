@@ -35,7 +35,7 @@ Acknowledgement for QICSS access:
 
 The analyses contained in this text were carried out at the Centre interuniversitaire québécois de statistiques sociales (QICSS), a member of the Canadian Research Data Centre Network (CRDCN). The activities of the QICSS are made possible by the financial support of the Social Sciences and Humanities Research Council (SSHRC), the Canadian Institutes of Health Research (CIHR), the Canada Foundation for Innovation (CFI), Statistics Canada, the Fonds de recherche du Québec and all the Quebec universities that contribute to their funding. The ideas expressed in this text are those of the authors and not necessarily those of the CRDCN, the QICSS or their partners.
 
-Contact:
+**Contact:**
 
 Ivano Argondizzo
 i.argondizzo@hotmail.com 
